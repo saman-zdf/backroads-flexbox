@@ -85,7 +85,7 @@ h4 {
   margin-bottom: 0.75rem;
 }
 h1 {
-  font-size: 3rem;
+  font-size: 4rem;
 }
 h2 {
   font-size: 2rem;
@@ -196,7 +196,7 @@ Navbar
 }
 .nav-toggle {
   background: transparent;
-  border: transparent;
+  border: none;
   font-size: 1.5rem;
   color: var(--clr-primary-5);
   cursor: pointer;
